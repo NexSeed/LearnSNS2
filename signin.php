@@ -17,6 +17,9 @@
                         <input type="password" name="input_password" class="form-control" id="password" placeholder="4 ~ 16文字のパスワード">
                     </div>
                     <input type="submit" class="btn btn-info" value="サインイン">
+                    <span style="float: right; padding-top: 6px;">
+                        <a href="index.php">戻る</a>
+                    </span>
                 </form>
             </div>
         </div>
