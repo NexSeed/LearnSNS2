@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-xs-8 col-xs-offset-2 thumbnail">
                 <h2 class="text-center content_header">アカウント作成</h2>
-                <form method="POST" action="check.php" enctype="multipart/form-data">
+                <form method="POST" action="signup.php" enctype="multipart/form-data">
                     <div class="form-group">
                         <label for="name">ユーザー名</label>
                         <input type="text" name="input_name" class="form-control" id="name" placeholder="山田 太郎"
